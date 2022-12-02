@@ -13,7 +13,9 @@ la transmission est pleine de dangers, il faut garder une trace du chemin parcou
 <br>
 êtes-vous certain que vous êtes sur le bon chemin et que le destinataire est le destinataire prévu?
 <br>
+<center>
 <img src="https://donnees-rgpd.fr/wp-content/uploads/2019/04/mesures-rgpd-protection-donnees.jpg">
+ </center>
 <hr>
 
 Ce répertoire contient une description détaillée de notre solution  :rocket:  :rocket:
