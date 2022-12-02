@@ -12,8 +12,8 @@ En cas de transfert de données à une destination spécifique,
 la transmission est pleine de dangers, il faut garder une trace du chemin parcouru tous concentrés sur cette interrogation.
 <br>
 êtes-vous certain que vous êtes sur le bon chemin et que le destinataire est le destinataire prévu?
-
-<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png"
+<br>
+<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png">
 <hr>
 
 Ce répertoire contient une description détaillée de notre solution  :rocket:  :rocket:
