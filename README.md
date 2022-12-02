@@ -20,7 +20,5 @@ la transmission est pleine de dangers, il faut garder une trace du chemin parcou
 <hr>
 
 **Ce répertoire contient une documentation explicative et argumentée de ce qui a été implémenté :rocket:  :rocket:**
-<div color="red">
- +++  logs, écrans de validation
- </div
+
 
