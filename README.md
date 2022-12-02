@@ -19,6 +19,6 @@ la transmission est pleine de dangers, il faut garder une trace du chemin parcou
  </div>
 <hr>
 
-**Ce répertoire contient une documentation explicative et argumentée de ce qui a été implémenté :rocket:  :rocket:**
+**Ce répertoire contient une documentation explicative et argumentée de ce qui a été implémenté + écrans de validation :rocket:  :rocket:**
 
 
