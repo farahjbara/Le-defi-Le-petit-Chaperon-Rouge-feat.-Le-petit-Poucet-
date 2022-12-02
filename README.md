@@ -13,8 +13,7 @@ la transmission est pleine de dangers, il faut garder une trace du chemin parcou
 <br>
 êtes-vous certain que vous êtes sur le bon chemin et que le destinataire est le destinataire prévu?
 
-![]([https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E](https://donnees-rgpd.fr/wp-content/uploads/2019/04/mesures-rgpd-protection-donnees-fb.jpg))
-
+<img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png"
 <hr>
 
 Ce répertoire contient une description détaillée de notre solution  :rocket:  :rocket:
