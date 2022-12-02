@@ -7,6 +7,7 @@ Il était une fois une petite Data qui devait aller chez sa Mère-Grand. Pour y 
   
 </h1>
 
+<hr>
 En cas de transfert de données à une destination spécifique,
 la transmission est pleine de dangers, il faut garder une trace du chemin parcouru tous concentrés sur cette interrogation.
 <br>
